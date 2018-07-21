@@ -1,0 +1,11 @@
+This data set describes seven measured geometric parameters of 205 wheat kernels which belong to three different types of wheat: Kama (Y=1), Rosa (Y=2) and Canadian (Y=3).
+
+X1 = area (mm^2)
+X2 = perimeter (mm)
+X3 = compactness (4*pi*area/perimeter^2)
+X4 = length of kernel (mm)
+X5 = width of kernel (mm)
+X6 = asymmetry coefficient
+X7 = length of kernel groove (mm)
+
+ 
