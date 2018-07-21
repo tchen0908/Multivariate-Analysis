@@ -1,0 +1,15 @@
+The New Wages Data Set contains information regarding types of wages and other categorical characteristics from a random sample of 534 persons. The variables are described next: 
+
+   
+   1) Wage type: A=(wage<=$5/hr), B=($5/hr<wage<=$10/hr), C=(wage>$10/hr) 
+   2) Education level: 1=very low, 2=low, 3=medium, 4=high 
+   3) South: 1=person lives in the south, 0=otherwise 
+   4) Gender: 1=female, 0=male 
+   5) Experience: 1=low, 2=medium, 3=high 
+   6) Union: 1=union member, 0=otherwise  
+   7) Age: 1=less than 33 years old, 2=between 33 and 48 years old, 3=older than 48 
+   8) Race: 1=other, 2=hispanic, 3=caucasian 
+   9) Occupation: 1=management, 2=sales, 3=clerical, 4=service, 5=professional, 
+                  6=other
+ 10) Sector: 0=other, 1=manufacturing, 2=construction 
+ 11) Mstat: 1=married, 0=otherwise 
