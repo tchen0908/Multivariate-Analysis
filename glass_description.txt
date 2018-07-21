@@ -1,0 +1,20 @@
+Total # of observations = 114
+
+Attribute Information:
+
+V1: refractive index
+V2: Sodium (unit measurement: weight percent in corresponding oxide, as are attributes V3-V9)
+V3: Magnesium
+V4: Aluminum
+V5: Silicon
+V6: Potassium
+V7: Calcium
+V8: Barium
+V9: Iron
+V10: Type of glass
+        1 = building_windows_float_processed
+        2 = building_windows_non_float_processed
+        3 = vehicle_windows_float_processed
+        4 = containers
+        5 = tableware
+        6 = headlamps
